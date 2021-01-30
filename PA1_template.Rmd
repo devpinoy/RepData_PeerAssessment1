@@ -1,8 +1,10 @@
 ---
-title: "PA1_template.Rmd"
+title: "Reproducible Research: Peer Assessment 1"
 author: "Dennis Benigno"
 date: "1/28/2021"
-output: html_document
+output: 
+  html_document:
+    keep_md: true
 
 ---
 
